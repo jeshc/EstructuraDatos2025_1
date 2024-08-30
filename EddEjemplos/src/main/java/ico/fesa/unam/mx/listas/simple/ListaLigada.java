@@ -1,4 +1,4 @@
-package ico.fesa.unam.mx.listas;
+package ico.fesa.unam.mx.listas.simple;
 
 public class ListaLigada<T> {
     private Nodo<T> head;

@@ -1,4 +1,4 @@
-package ico.fesa.unam.mx.listas;
+package ico.fesa.unam.mx.listas.simple;
 
 public class NodosMain {
     public static void main(String[] args) {
